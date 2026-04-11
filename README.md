@@ -2,9 +2,8 @@
 <h3 align="center">🚀 MERN Stack Developer | Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam5156&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shivam5156&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
