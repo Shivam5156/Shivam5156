@@ -1,79 +1,67 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">🚀 MERN Stack Developer | Backend Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam5156&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Passionate about building scalable web applications using **MERN Stack**
+- 💻 I build scalable web applications using **MERN Stack**
 - ⚡ Strong in **Backend Development & API Design**
 - 📊 Solved **100+ DSA problems** on LeetCode
-- 🤖 Interested in **AI-powered applications & real-time systems**
+- 🤖 Interested in **AI-powered applications**
 - 🎯 Looking for **Internship (MERN / Backend Developer)**
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-- JavaScript | Java
+**Languages:**  
+JavaScript | Java  
 
-### 🎨 Frontend
-- React.js | HTML | CSS | Tailwind CSS
+**Frontend:**  
+React.js | HTML | CSS | Tailwind CSS  
 
-### ⚙️ Backend
-- Node.js | Express.js | REST APIs | JWT Authentication
+**Backend:**  
+Node.js | Express.js | REST APIs | JWT Authentication  
 
-### 🗄️ Database
-- MongoDB | Mongoose
+**Database:**  
+MongoDB | Mongoose  
 
-### 🛠️ Tools
-- Git | GitHub | VS Code | Postman
+**Tools:**  
+Git | GitHub | VS Code | Postman  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI Chatbot (Top Project )
+### 🤖 AI Chatbot
 - Built AI chatbot using **Node.js + Groq API**
 - Handles real-time user queries with **context-aware responses**
-- Optimized backend APIs for faster response time  
-- 🔗 GitHub: https://github.com/Shivam5156 (Add your repo link)
+- Optimized backend APIs for fast response  
+🔗 https://github.com/Shivam5156/<repo-link>
 
 ---
 
 ### 🔐 Authentication System
 - Built secure authentication system using **JWT & protected routes**
-- Implemented password hashing and **role-based access control**
-- Designed backend APIs for login/signup flow  
-- 🔗 GitHub: (Add your repo link)
+- Implemented password hashing & role-based access  
+- Designed complete login/signup backend flow  
+🔗 https://github.com/Shivam5156/<repo-link>
 
 ---
 
 ### 🌐 Portfolio Website
 - Developed responsive portfolio using **React & Tailwind CSS**
-- Optimized UI components for smooth performance  
+- Clean UI with optimized performance  
 - Deployed for public access  
-- 🔗 Live: (Add your live link)
+🔗 https://<your-live-link>
 
 ---
 
 ### 📊 Binary Search Visualizer
-- Interactive tool to visualize **Binary Search step-by-step**
-- Real-time state updates with dynamic array rendering  
-- Helps users understand algorithm complexity  
-- 🔗 GitHub: (Add your repo link)
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam5156&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam5156&theme=tokyonight" />
-</p>
+- Built interactive tool to visualize **Binary Search step-by-step**
+- Real-time updates with dynamic array rendering  
+- Helps understand algorithm logic easily  
+🔗 https://github.com/Shivam5156/<repo-link>
 
 ---
 
