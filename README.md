@@ -142,7 +142,7 @@
 ### 📊 Binary Search Visualizer
 - Built interactive Binary Search visualizer with real-time updates  
 - Dynamic array rendering to improve algorithm understanding  
-🔗 GitHub:https://github.com/Shivam5156/Binary-Search-Visualizer
+🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
 
 ---
 
