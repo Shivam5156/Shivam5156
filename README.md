@@ -43,36 +43,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Portfolio Website
-- Built a fully responsive portfolio using React & Tailwind CSS
-- Optimized UI components for smooth user experience  
-- 🔗 Live: (Add your link)
-
----
-
-### 🔹 Binary Search Visualizer
-- Interactive tool to visualize Binary Search step-by-step  
-- Real-time state updates with dynamic array rendering  
-- 🔗 GitHub: (Add link)
-
----
-
-### 🔹 Authentication System
-- Secure auth system with **JWT & protected routes**  
-- Password hashing and role-based access control  
-- 🔗 GitHub: (Add link)
-
----
-
-### 🔹 AI Chatbot
-- Built AI chatbot using **Node.js + Groq API**  
-- Handles real-time queries with context-aware responses  
-- 🔗 GitHub: (Add link)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -119,7 +89,7 @@
 - Built AI chatbot using **Node.js + Groq API**
 - Handles real-time user queries with **context-aware responses**
 - Optimized backend APIs for faster response time  
-🔗 GitHub: https://github.com/Shivam5156/<repo-link>
+🔗 GitHub: https://github.com/Shivam5156/shivam-portfolio
 
 ---
 
@@ -127,7 +97,7 @@
 - Built secure authentication system using **JWT & protected routes**
 - Implemented password hashing and **role-based access control**
 - Designed backend APIs for login/signup flow  
-🔗 GitHub: https://github.com/Shivam5156/<repo-link>
+🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
 
 ---
 
