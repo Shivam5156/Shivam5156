@@ -52,13 +52,6 @@
 
 ---
 
-## 🔗 Connect with Me
-- 💼 LinkedIn: (Add your link)
-- 💻 GitHub: https://github.com/Shivam5156
-- 📧 Email: singhs3653@gmail.com
-
----
-
 ⭐️ From [Shivam Singh](https://github.com/Shivam5156)
 - 🎯 Looking for **Internship (MERN / Backend Developer)**
 
@@ -115,12 +108,6 @@
 🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam5156&show_icons=true" />
-</p>
 
 ---
 
