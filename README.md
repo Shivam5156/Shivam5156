@@ -85,7 +85,7 @@
 
 ## 📌 Featured Projects
 
-### 🤖 AI Chatbot (Top Project 🔥)
+### 🤖 AI Chatbot
 - Built AI chatbot using **Node.js + Groq API**
 - Handles real-time user queries with **context-aware responses**
 - Optimized backend APIs for faster response time  
