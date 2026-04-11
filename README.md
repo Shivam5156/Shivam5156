@@ -89,7 +89,7 @@
 - Built AI chatbot using **Node.js + Groq API**
 - Handles real-time user queries with **context-aware responses**
 - Optimized backend APIs for faster response time  
-🔗 GitHub: https://github.com/Shivam5156/shivam-portfolio
+🔗 GitHub:
 
 ---
 
@@ -97,7 +97,7 @@
 - Built secure authentication system using **JWT & protected routes**
 - Implemented password hashing and **role-based access control**
 - Designed backend APIs for login/signup flow  
-🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
+🔗 GitHub:
 
 ---
 
@@ -105,7 +105,7 @@
 - Developed responsive portfolio using **React & Tailwind CSS**
 - Optimized UI components for smooth performance  
 - Deployed for public access  
-🔗 Live: https://<your-live-link>
+🔗 Live:  https://github.com/Shivam5156/shivam-portfolio
 
 ---
 
