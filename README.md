@@ -82,7 +82,7 @@
 - Built AI chatbot using **Node.js + Groq API**
 - Handles real-time user queries with **context-aware responses**
 - Optimized backend APIs for faster response time  
-🔗 GitHub:
+🔗 GitHub: https://github.com/Shivam5156/Chatbot
 
 ---
 
