@@ -100,6 +100,7 @@
 - Optimized UI components for smooth performance  
 - Deployed for public access  
 🔗 Github:  https://github.com/Shivam5156/shivam-portfolio
+🔗 Live: https://shivam-portfolio-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
