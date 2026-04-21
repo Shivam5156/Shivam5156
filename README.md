@@ -1,25 +1,43 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">🚀 MERN Stack Developer | Backend Focused | DSA Learner</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam5156&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 * 💻 Backend-focused MERN developer passionate about building **scalable APIs & real-time systems**
-* ⚡ Strong in **Node.js, Express & REST API design**
+* ⚡ Strong in **Node.js, Express.js & REST API design**
 * 📊 Solved **110+ DSA problems** (actively improving problem-solving skills)
 * 🤖 Exploring **AI integrations & real-time applications**
-* 🎯 Actively seeking **Backend / MERN Internship**
+* 🎯 Currently looking for **Backend / MERN Internship**
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages:** JavaScript, Java
-**Frontend:** React.js, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs, JWT Auth
-**Database:** MongoDB, Mongoose
-**Tools:** Git, GitHub, Postman, VS Code
+### 💻 Languages
+
+JavaScript | Java
+
+### 🎨 Frontend
+
+React.js | HTML | CSS | Tailwind CSS
+
+### ⚙️ Backend
+
+Node.js | Express.js | REST APIs | JWT Authentication
+
+### 🗄️ Database
+
+MongoDB | Mongoose
+
+### 🛠️ Tools
+
+Git | GitHub | Postman | VS Code
 
 ---
 
@@ -28,37 +46,57 @@
 ### 🤖 AI Chatbot
 
 * Built chatbot using **Node.js + Groq API**
-* Implemented **context-aware responses & real-time handling**
-* Optimized APIs → reduced response latency
-  🔗 GitHub: https://github.com/Shivam5156/Chatbot
-  🔗 Live: https://chatbot-git-main-shivam5156s-projects.vercel.app/
+
+* Handles **real-time user queries with context-aware responses**
+
+* Optimized backend APIs for faster response time
+
+* 🔗 GitHub:
+  https://github.com/Shivam5156/Chatbot
+
+* 🚀 Live:
+  https://chatbot-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
 ### 🔐 Authentication System
 
-* Designed secure auth system using **JWT & protected routes**
-* Implemented **password hashing + role-based access**
-* Built scalable backend for login/signup
-  🔗 GitHub: 
+* Built secure authentication system using **JWT & protected routes**
+
+* Implemented **password hashing & role-based access control**
+
+* Designed backend APIs for authentication flow
+
+* 🔗 GitHub:
+  (Add your repo link here)
 
 ---
 
 ### 📊 Binary Search Visualizer
 
-* Built interactive visualizer for **better DSA understanding**
-* Real-time updates & dynamic rendering
-  🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
-  🔗 Live: https://binary-search-visualizer-git-main-shivam5156s-projects.vercel.app/
+* Built interactive visualizer for better **DSA understanding**
+
+* Real-time updates with dynamic array rendering
+
+* 🔗 GitHub:
+  https://github.com/Shivam5156/Binary-Search-Visualizer
+
+* 🚀 Live:
+  https://binary-search-visualizer-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
 ### 🌐 Portfolio Website
 
-* Built responsive portfolio using **React + Tailwind**
-* Optimized UI for performance & accessibility
-  🔗 GitHub: https://github.com/Shivam5156/shivam-portfolio
-  🔗 Live: https://shivam-portfolio-git-main-shivam5156s-projects.vercel.app/
+* Developed responsive portfolio using **React & Tailwind CSS**
+
+* Optimized UI for performance and user experience
+
+* 🔗 GitHub:
+  https://github.com/Shivam5156/shivam-portfolio
+
+* 🚀 Live:
+  https://shivam-portfolio-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
@@ -79,4 +117,4 @@
 
 ---
 
-⭐️ Always learning | Always building 🚀
+⭐️ **Always learning | Always building 🚀**
