@@ -83,6 +83,7 @@
 - Handles real-time user queries with **context-aware responses**
 - Optimized backend APIs for faster response time  
 🔗 GitHub: https://github.com/Shivam5156/Chatbot
+🔗 Live: https://chatbot-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
@@ -106,6 +107,7 @@
 - Built interactive Binary Search visualizer with real-time updates  
 - Dynamic array rendering to improve algorithm understanding  
 🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
+🔗 Live:https://binary-search-visualizer-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
