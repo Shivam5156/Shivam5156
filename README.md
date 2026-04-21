@@ -98,7 +98,7 @@
 - Developed responsive portfolio using **React & Tailwind CSS**
 - Optimized UI components for smooth performance  
 - Deployed for public access  
-🔗 Live:  https://github.com/Shivam5156/shivam-portfolio
+🔗 Github:  https://github.com/Shivam5156/shivam-portfolio
 
 ---
 
