@@ -1,124 +1,82 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="center">🚀 MERN Stack Developer | Backend Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam5156&label=Visitors&color=blueviolet&style=for-the-badge" />
-</p>
----
-
-## 🧑‍💻 About Me
-- 💻 Passionate about building scalable web applications using **MERN Stack**
-- ⚡ Strong in **Backend Development & API Design**
-- 📊 Solved **100+ DSA problems** on LeetCode
-- 🤖 Interested in **AI-powered applications & real-time systems**<h1 align="center">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="center">🚀 MERN Stack Developer | Backend Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | Backend Focused | DSA Learner</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Passionate about building scalable web applications using **MERN Stack**
-- ⚡ Strong in **Backend Development & API Design**
-- 📊 Solved **100+ DSA problems** on LeetCode
-- 🤖 Interested in **AI-powered applications & real-time systems**
-- 🎯 Currently looking for **Internship (MERN / Backend Developer)**
+
+* 💻 Backend-focused MERN developer passionate about building **scalable APIs & real-time systems**
+* ⚡ Strong in **Node.js, Express & REST API design**
+* 📊 Solved **110+ DSA problems** (actively improving problem-solving skills)
+* 🤖 Exploring **AI integrations & real-time applications**
+* 🎯 Actively seeking **Backend / MERN Internship**
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-- JavaScript | Java
-
-### 🎨 Frontend
-- React.js | HTML | CSS | Tailwind CSS
-
-### ⚙️ Backend
-- Node.js | Express.js | REST APIs | JWT Authentication
-
-### 🗄️ Database
-- MongoDB | Mongoose
-
-### 🛠️ Tools
-- Git | GitHub | VS Code | Postman
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Shivam5156&show_icons=true&theme=tokyonight" alt="stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam5156&theme=tokyonight" alt="streak" />
-</p>
-
----
-
-⭐️ From [Shivam Singh](https://github.com/Shivam5156)
-- 🎯 Looking for **Internship (MERN / Backend Developer)**
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-- JavaScript | Java
-
-### 🎨 Frontend
-- React.js | HTML | CSS | Tailwind CSS
-
-### ⚙️ Backend
-- Node.js | Express.js | REST APIs | JWT Authentication
-
-### 🗄️ Database
-- MongoDB | Mongoose
-
-### 🛠️ Tools
-- Git | GitHub | VS Code | Postman
+**Languages:** JavaScript, Java
+**Frontend:** React.js, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth
+**Database:** MongoDB, Mongoose
+**Tools:** Git, GitHub, Postman, VS Code
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🤖 AI Chatbot
-- Built AI chatbot using **Node.js + Groq API**
-- Handles real-time user queries with **context-aware responses**
-- Optimized backend APIs for faster response time  
-🔗 GitHub: https://github.com/Shivam5156/Chatbot
-🔗 Live: https://chatbot-git-main-shivam5156s-projects.vercel.app/
+
+* Built chatbot using **Node.js + Groq API**
+* Implemented **context-aware responses & real-time handling**
+* Optimized APIs → reduced response latency
+  🔗 GitHub: https://github.com/Shivam5156/Chatbot
+  🔗 Live: https://chatbot-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
 ### 🔐 Authentication System
-- Built secure authentication system using **JWT & protected routes**
-- Implemented password hashing and **role-based access control**
-- Designed backend APIs for login/signup flow  
-🔗 GitHub:
 
----
-
-### 🌐 Portfolio Website
-- Developed responsive portfolio using **React & Tailwind CSS**
-- Optimized UI components for smooth performance  
-- Deployed for public access  
-🔗 Github:  https://github.com/Shivam5156/shivam-portfolio
-🔗 Live: https://shivam-portfolio-git-main-shivam5156s-projects.vercel.app/
+* Designed secure auth system using **JWT & protected routes**
+* Implemented **password hashing + role-based access**
+* Built scalable backend for login/signup
+  🔗 GitHub: 
 
 ---
 
 ### 📊 Binary Search Visualizer
-- Built interactive Binary Search visualizer with real-time updates  
-- Dynamic array rendering to improve algorithm understanding  
-🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
-🔗 Live:https://binary-search-visualizer-git-main-shivam5156s-projects.vercel.app/
+
+* Built interactive visualizer for **better DSA understanding**
+* Real-time updates & dynamic rendering
+  🔗 GitHub: https://github.com/Shivam5156/Binary-Search-Visualizer
+  🔗 Live: https://binary-search-visualizer-git-main-shivam5156s-projects.vercel.app/
 
 ---
+
+### 🌐 Portfolio Website
+
+* Built responsive portfolio using **React + Tailwind**
+* Optimized UI for performance & accessibility
+  🔗 GitHub: https://github.com/Shivam5156/shivam-portfolio
+  🔗 Live: https://shivam-portfolio-git-main-shivam5156s-projects.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam5156&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam5156&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/shivam-singh-775252371/
-- 💻 GitHub: https://github.com/Shivam5156
-- 📧 Email: singhs3653@gmail.com
+
+* 💼 LinkedIn: https://www.linkedin.com/in/shivam-singh-775252371/
+* 💻 GitHub: https://github.com/Shivam5156
+* 📧 Email: [singhs3653@gmail.com](mailto:singhs3653@gmail.com)
 
 ---
 
-⭐️ From Shivam Singh 🚀
+⭐️ Always learning | Always building 🚀
