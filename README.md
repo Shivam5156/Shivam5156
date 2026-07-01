@@ -67,7 +67,7 @@ Git | GitHub | Postman | VS Code
 
 * Designed backend APIs for authentication flow
 
-* 🔗 GitHub:
+* 🔗 GitHub:https://github.com/Shivam5156/Authentication-System
 *  🚀 Live:https://authentication-system-git-main-shivam5156s-projects.vercel.app/
 
 
