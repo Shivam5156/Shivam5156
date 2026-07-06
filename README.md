@@ -114,7 +114,7 @@ Git | GitHub | Postman | VS Code
 
 * 💼 LinkedIn: https://www.linkedin.com/in/shivam-singh-775252371/
 * 💻 GitHub: https://github.com/Shivam5156
-* 📧 Email: [singhs3653@gmail.com](mailto:singhs3653@gmail.com)
+* 📧 Email: [shivam.singh.x5156@gmail.com](mailto:shivam.singh.x5156@gmail.com)
 
 ---
 
