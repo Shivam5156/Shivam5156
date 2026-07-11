@@ -43,19 +43,21 @@ Git | GitHub | Postman | VS Code
 
 ## 📌 Featured Projects
 
-### 🤖 AI Chatbot
 
-* Built chatbot using **Node.js + Groq API**
 
-* Handles **real-time user queries with context-aware responses**
+### 🎤 Interview Preparation Platform
 
-* Optimized backend APIs for faster response time
+* Built an AI-powered interview preparation platform using **React.js, Node.js, Express.js, MongoDB, and the Gemini API**
+
+* Generates **role-specific interview questions**, conducts AI-powered mock interviews, and provides intelligent feedback to help users improve their interview skills
+
+* Features interview history, performance tracking, and a responsive, user-friendly interface
 
 * 🔗 GitHub:
-  https://github.com/Shivam5156/Chatbot
+  https://github.com/Shivam5156/Interview-Preparation-Platform
 
 * 🚀 Live:
-  https://chatbot-git-main-shivam5156s-projects.vercel.app/
+  https://interview-prepration-platform-git-main-shivam5156s-projects.vercel.app/
 
 ---
 
@@ -100,7 +102,21 @@ Git | GitHub | Postman | VS Code
   https://shivam-portfolio-git-main-shivam5156s-projects.vercel.app/
 
 ---
+### 🤖 AI Chatbot
 
+* Built chatbot using **Node.js + Groq API**
+
+* Handles **real-time user queries with context-aware responses**
+
+* Optimized backend APIs for faster response time
+
+* 🔗 GitHub:
+  https://github.com/Shivam5156/Chatbot
+
+* 🚀 Live:
+  https://chatbot-git-main-shivam5156s-projects.vercel.app/
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
